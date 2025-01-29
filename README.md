@@ -53,12 +53,3 @@ The hypothesis was incorrect, as **Queens** consistently had the highest positiv
 
 ## Conclusion
 The experiment demonstrated how COVID-19 impacted different boroughs over time, with Queens having the highest positivity rate. This analysis can help in understanding pandemic trends and resource allocation.
-
-## Future Improvements
-- Incorporate **vaccination data** to observe its impact on positivity rates.
-- Use **visualizations** (e.g., graphs, heatmaps) for better data representation.
-- Analyze data at a **zip-code level** for a more granular view.
-
----
-📌 **Author:** Weipeng Lin  
-📌 **GitHub:** [okweipeng](https://github.com/okweipeng)
